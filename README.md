@@ -1,2 +1,3 @@
 Welcome to my github,
-I upload random projects im working on
+Im currently learning python and
+i just like to upload random projects im working on.
